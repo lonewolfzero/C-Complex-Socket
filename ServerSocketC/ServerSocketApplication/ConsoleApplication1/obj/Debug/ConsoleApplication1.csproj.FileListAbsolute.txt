@@ -1,0 +1,7 @@
+D:\BindingSnap\SocketC\ServerSocketC\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\BindingSnap\SocketC\ServerSocketC\ServerSocketApplication\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
